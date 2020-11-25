@@ -1,9 +1,12 @@
 import react from React;
 
-class Header extends React.Component {
+const Header {
     render() {
         return (
-            <h1>Welcome to Groovity!</h1>
+            <div>
+                <h1>Welcome to Groovity!</h1>
+                <h2>My name is Ben ... this is a test... please work</h2>
+            </div>
         )
     }
 }
