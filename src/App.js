@@ -1,7 +1,7 @@
 import './App.css';
 import Header from './Components/Header/Header'
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <header className="App-header">
