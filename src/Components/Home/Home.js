@@ -1,6 +1,6 @@
 import React from 'react';
-import PlaylistDisplay from './Components/PlaylistDisplay/PlaylistDisplay';
-import CreatePlaylistForm from './Components/CreatePlaylistForm/CreatePlaylistForm';
+import PlaylistDisplay from '../PlaylistDisplay/PlaylistDisplay'
+import CreatePlaylistForm from '../CreatePlaylistForm/CreatePlaylistForm';
 
 const Home = () => {
   return (
